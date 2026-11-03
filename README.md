@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Dan-ets/Dan-ets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Design & Graphics**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Tech Stack" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+**Code & Development [Skills I'm currently learning]**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ANIMATED WAVE FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:27272A&height=100&section=footer" width="100%" alt="Footer"/>
+</div>
