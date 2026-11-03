@@ -12,7 +12,19 @@
   </p>
 </div>
 
-## Skills & Tools
+<!-- DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181B,50:52525B,100:18181B&height=2" width="100%" alt="Divider"/>
+</div>
+<br/>
+
+### What I Focus On
+
+* **Design Systems & UI Architecture** — building structured component libraries, token systems, and responsive layouts.
+* **User Experience & Flows** — crafting intuitive navigation, clean information architecture, and user-centric interfaces.
+* **Design-to-Code Workflow** — translating static layouts into clean, semantic HTML/CSS and interactive prototypes.
+
+### Skills & Tools
 
 **Design & Graphics**
 <p align="left">
