@@ -16,6 +16,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181B,50:52525B,100:18181B&height=2" width="100%" alt="Divider"/>
 </div>
+
+<div align="center">
+  <i>Mastering design systems today — aiming to build: custom apps, plugins, and software in the future.</i>
+</div>
 <br/>
 
 ### What I Focus On
